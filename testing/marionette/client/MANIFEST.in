@@ -1,4 +1,0 @@
-recursive-include marionette/touch *.js
-recursive-include marionette/runner/mixins/resources *
-exclude MANIFEST.in
-include requirements.txt

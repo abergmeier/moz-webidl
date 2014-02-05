@@ -1,1 +1,0 @@
-fails-if(Android&&AndroidVersion==17) HTTP == accept-image-catchall.html accept-image-catchall-ref.html
